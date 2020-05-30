@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_find">Find</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_settings">Settings</string>
+    <string name="splash_text">Arturo González, test</string>
+    <string name="configured_user">configured_user</string>
+    <string name="enter_your_user_id">Enter your user ID</string>
+    <string name="input_name">Input ID</string>
+    <string name="login">Login</string>
+    <string name="employee_title">Employee List</string>
+    <string name="employee_detail_title">Employee Individual</string>
+    <string name="employee_list_bundle">employee_list</string>
+    <string name="employee_id_bundle">employee_id</string>
+    <string name="employee_id_bundle_detail">employee_id_detail</string>
+    <string name="employee_bundle_detail">employee_detail</string>
+    <string name="loading">Loading....</string>
+    <string name="somethingWrong">Something went wrong...Please try later!</string>
+    <string name="somethingWrongLastEmployee">Something went wrong...Please try later! used last object</string>
+    <string name="select_picture">Select a picture</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

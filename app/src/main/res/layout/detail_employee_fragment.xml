@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/employee_id_detail"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center_vertical"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:text="Employee Id" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/employee_name_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="4"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            android:text="Employee Name" />
+
+        <TextView
+            android:id="@+id/employee_age_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="Age" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/employee_salary_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+
+        android:text="Salary" />
+</LinearLayout>
